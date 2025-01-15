@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥C# Progammer And Web<br>🇺🇸 Intermediate / Advanced English<br>👨🏻‍🎓Improving Myself
+🔥C# Programmer And Web<br>🇺🇸 Intermediate / Advanced English<br>👨🏻‍🎓Improving Myself
 
 
 ## 🌐 Socials:
