@@ -23,7 +23,7 @@
 
 
 
-
+![](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Marcuxzz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuxzz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
