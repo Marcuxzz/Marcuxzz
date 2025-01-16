@@ -7,7 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Marcuxzz&theme=midnight-purple&hide_border=true)<br/>
 
 
-![](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/tokyo-night.png)
+
 
 
 
