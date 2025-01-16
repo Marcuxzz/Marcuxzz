@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1250&color=9F4BFF&center=true&width=435&lines=Welcome!;Marcuxzz;%40Oliveirazzxxy+On+Instagram.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=25&duration=2500&pause=1500&color=9F4BFF&center=true&vCenter=true&width=500&height=40&lines=Welcome!;Marcuxzz;%40oliveirazzxxy+On+Instagram.)](https://git.io/typing-svg)
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Marcuxzz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuxzz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
