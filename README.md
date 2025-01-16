@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&duration=2500&pause=1500&color=9F4BFF&center=true&vCenter=true&width=1000&height=40&lines=Welcome!;Marcuxzz;%40oliveirazzxxy+On+Instagram.)](https://git.io/typing-svg)
 
 
-![](https://github-readme-stats.vercel.app/api?username=Marcuxzz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuxzz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Marcuxzz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuxzz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 
@@ -32,7 +32,8 @@ Second Skills<br>
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Marcuxzz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuxzz&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Marcuxzz&theme=transparent&hide_border=true)
 
 
+
+
+![](https://github-readme-stats.vercel.app/api?username=Marcuxzz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuxzz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
