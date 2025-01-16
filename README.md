@@ -7,8 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Marcuxzz&theme=midnight-purple&hide_border=true)<br/>
 
 
-
-[![Marcuxzz's github activity graph]([https://github-readme-activity-graph.vercel.app/graph?username=Marcuxzz](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/tokyo-night.png))](https://github.com/ashutosh00710/github-readme-activity-graph)
+https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/tokyo-night.png
 
 
 
