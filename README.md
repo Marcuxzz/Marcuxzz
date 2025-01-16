@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔥C# Programmer And Web<br>🇺🇸 Intermediate / Advanced English<br>👨🏻‍🎓Improving Myself
-# https://readme-typing-svg.demolab.com/demo/?weight=200&duration=2500&pause=1250&color=9F4BFF&center=true&vCenter=true&lines=Welcome!;Marcuxzz;%40Oliveirazzxxy+On+Instagram.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/marcos-vin%C3%ADcius-739750329/) 
