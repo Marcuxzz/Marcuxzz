@@ -6,7 +6,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuxzz&layout=compact&hide_border=true&title_color=9F4BFF&text_color=af7ee8&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcuxzz&bg_color=0d1117&color=9F4BFF&line=af7ee8&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcuxzz&bg_color=0d1117&color=9F4BFF&line=af7ee8&point=9F4BFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
