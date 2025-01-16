@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=1250&color=9F4BFF&center=true&width=435&lines=Welcome!;Marcuxzz;%40Oliveirazzxxy+On+Instagram.)](https://git.io/typing-svg)
 
-🔥C# Programmer And Web<br>🇺🇸 Intermediate / Advanced English<br>👨🏻‍🎓Improving Myself
+
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Marcuxzz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true)<br/>
