@@ -1,4 +1,4 @@
-# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&duration=2500&pause=1250&color=9F4BFF&center=true&vCenter=true&width=435&lines=Welcome!;Marcuxzz;%40Oliveirazzxxy+On+Instagram.)](https://git.io/typing-svg)
 🔥C# Programmer And Web<br>🇺🇸 Intermediate / Advanced English<br>👨🏻‍🎓Improving Myself
 
 
