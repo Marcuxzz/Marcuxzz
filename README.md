@@ -9,10 +9,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcuxzz&bg_color=0d1117&color=9F4BFF&line=af7ee8&point=9F4BFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![](https://camo.githubusercontent.com/995d6ec286470eea56687d66ccb96e320596aefb1cb864dc95b58fc3bbc2dcc0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d616e7572616768617a7261267265706f3d6769746875622d726561646d652d73746174732663616368655f7365636f6e64733d3836343030267468656d653d6d69646e696768742d707572706c65)
 
-💻Main Skills<br>
- <br>
+### 💻Main Skills
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 <br>
 
