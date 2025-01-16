@@ -6,7 +6,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=Marcuxzz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuxzz&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Marcuxzz&theme=midnight-purple&hide_border=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcuxzz&layout=compact)
+
+
+
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcuxzz&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
