@@ -19,7 +19,7 @@
 ![](https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg)
 
 
-[![](https://visitcount.itsvg.in/api?id=Marcuxzz&icon=0&color=0)](https://visitcount.itsvg.in) ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![](https://visitcount.itsvg.in/api?id=Marcuxzz&icon=0&color=0)](https://visitcount.itsvg.in)<br/> ![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 
 
