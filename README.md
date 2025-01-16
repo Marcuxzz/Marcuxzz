@@ -8,7 +8,7 @@
 
 
 
-[![Marcuxzz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marcuxzz)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Marcuxzz's github activity graph]([https://github-readme-activity-graph.vercel.app/graph?username=Marcuxzz](https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/asset/tokyo-night.png))](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
