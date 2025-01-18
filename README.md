@@ -26,5 +26,3 @@
 ![user contribution)](https://github.com/user-attachments/assets/dcc776d8-d3c0-4ec4-bfc3-c94bb0093f32)
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMarcuxzz&s=15&c=af7ee8&bg=00000000&no=2&ff=electrolize&tb=&ta=+visitors)
 ![header image](https://github.com/user-attachments/assets/c1941338-0201-4219-9aef-266c95bc90e3)
-
-<---ty--->
