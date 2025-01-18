@@ -1,8 +1,8 @@
-<div align="center">
+
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&duration=2500&pause=1500&color=9F4BFF&center=true&vCenter=true&width=1000&height=40&lines=Welcome!;@oliveirazzxxy+On+Instagram)](https://git.io/typing-svg)
 
 ![header image](https://github.com/user-attachments/assets/991d3ac6-08d0-4f95-a74b-aaaafb3ebe95)
-
+<div align="center">
 🔥C# Programmer And Web<br>🇺🇸 Intermediate / Advanced English<br>👨🏻‍🎓Improving Myself
   
  <div align="center">
