@@ -1,6 +1,7 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=30&duration=2500&pause=1500&color=9F4BFF&center=true&vCenter=true&width=1000&height=40&lines=Welcome!;@oliveirazzxxy+On+Instagram)](https://git.io/typing-svg)
 
-![header image](https://github.com/user-attachments/assets/168f7f58-d940-45c5-bd55-8dbf41a5bad1)
+![header image](https://github.com/user-attachments/assets/991d3ac6-08d0-4f95-a74b-aaaafb3ebe95)
+
 
 <div align="center">
 🔥C# Programmer And Web<br>🇺🇸 Intermediate / Advanced English<br>👨🏻‍🎓Improving Myself
@@ -28,7 +29,5 @@
 
 ![user contribution)](https://github.com/user-attachments/assets/dcc776d8-d3c0-4ec4-bfc3-c94bb0093f32)
 ![visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FMarcuxzz&s=15&c=af7ee8&bg=00000000&no=2&ff=electrolize&tb=&ta=+visitors)
-
-
-![header image](https://github.com/user-attachments/assets/fbc8910e-9f23-4534-ae91-af70a7c3b327)
+![header image](https://github.com/user-attachments/assets/c1941338-0201-4219-9aef-266c95bc90e3)
 
